@@ -1,0 +1,37 @@
+.linkContainer{
+    background-color:aquamarine;
+    padding: 20px;
+    left: -5px;
+}
+header, footer{
+    background-color:bisque;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+.linkContainer a{
+    padding: 20px;
+}
+.main{
+    display: flex;
+    min-height: 500px;
+}
+.article{
+    width: 75%;
+    background-color: beige;
+    margin: 4px;
+    border-radius: 5px;
+}
+.navbar{
+    background:lightblue;
+    width: 25%;
+    margin: 3px;
+    border-radius: 5px;
+
+
+}
+.navbar a{
+    text-decoration: none;
+
+}
